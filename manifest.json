@@ -1,0 +1,16 @@
+{
+  "name": "曹候補生 算数で読める過去問ノート",
+  "short_name": "過去問ノート",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f4f5f7",
+  "theme_color": "#2b5c3f",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3426/3426653.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
+
